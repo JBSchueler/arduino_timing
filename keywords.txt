@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For debug_lvc
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+timePastFixed	KEYWORD2
+timePastOverrunFixed	KEYWORD2
+timePastVariable	KEYWORD2
+timePastOverrunVariable	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
